@@ -1,0 +1,1 @@
+windows/read.exe %1 %2
